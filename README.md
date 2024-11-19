@@ -1,4 +1,4 @@
-Description
+Description:
 This project implements a neural network model for binary classification using TensorFlow. 
 The model is trained on a dataset with two features and performs classification using two dense layers with ReLU activation. The output layer uses softmax activation for binary classification.
 
